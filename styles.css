@@ -6,4 +6,7 @@ margin: 0px;
 
 header{
     border-bottom: solid 3px rgb(red, green, blue);
+    padding: 20px;
+    font-size: 23px;
+    color:rgb(red, green, blue);
 }
